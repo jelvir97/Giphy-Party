@@ -1,0 +1,13 @@
+#gif-container{
+    display: flex;
+    justify-content:flex-start;
+    /* align-items: center; */
+    flex-wrap: wrap;
+
+}
+
+img{
+    max-height: 300px;
+    /* padding: 3px; */
+    border: peachpuff 5px solid;
+}
